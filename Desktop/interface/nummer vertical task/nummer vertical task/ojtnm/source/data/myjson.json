@@ -1,0 +1,28 @@
+{
+    "GlobalJson": {
+        "Honors": "王者荣耀",
+        "Welcome": "欢迎来到王者荣耀！",
+        "Privilages": "特权",
+        "Current": "当前爵位：",
+        "Spend": "再花费 ",
+        "no1": "爵位",
+        "no2": "特权",
+        "SpendContinue": " 积分以升级为爵位 ",
+        "Wallet": "钱包",
+        "Store": "商店",
+        "Welfare": "福利",
+        "Integral": "积分",
+        "Mall": "商城",
+        "Name": "姓名：",
+        "MyName": "Numer Edralin",
+        "Version": "版本号",
+        "Settings": "设置",
+        "Points": "积分",
+        "Increase": "提升等级和特权"
+    },
+    "NavigationButtonData": {
+        "label01": "返回",
+        "label02": "返回 - 01",
+        "label03": "返回 - 02"
+    }
+}

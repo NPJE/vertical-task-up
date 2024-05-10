@@ -1,0 +1,100 @@
+{
+    "GlobalJson": {
+        "Honors": "王者荣耀",
+        "Welcome": "欢迎来到王者荣耀！",
+        "Privilages": "特权",
+        "Current": "当前爵位：",
+        "Spend": "再花费 ",
+        "no1": "爵位",
+        "no2": "特权",
+        "SpendContinue": " 积分以升级为爵位 ",
+        "Wallet":"钱包",
+        "Store":"商店",
+
+        "Welfare":"福利",
+        "Integral":"积分",
+        "Mall":"商城",
+        "Name":"姓名：",
+        "MyName":"Numer Edralin",
+        "Version":"版本0",
+        "Settings":"设置"
+    },
+    "NavigationButtonData": {
+        "label01": "返回",
+        "label02": "返回 - 01",
+        "label03": "返回 - 02"
+    }
+}
+
+
+{
+    "GlobalJson": {
+        "Honors": "Honors of Kings",
+        "Welcome": "Welcome to Honors of Kings!",
+        "Privilages": "Privilages",
+        "Current": "Current Noble : ",
+        "Spend": "Spend another ",
+        "no1": "Noble",
+        "no2": "Privillage",
+        "SpendContinue": " points to upgrade to Noble ",
+        "Wallet":"Wallet",
+        "Store":"Store",
+
+        "Welfare":"Welfare",
+        "Integral":"Integral",
+        "Mall":"Mall",
+        "Name":"Name : ",
+        "MyName":"Numer Edralin",
+        "Version":"V0",
+        "Settings":"Settings"
+    },
+    "NavigationButtonData": {
+        "label01": "back",
+        "label02": "back - 01",
+        "label03": "back - 02"
+    }
+}
+
+
+
+
+
+{
+    "GlobalJson": {
+        "Honors": "Honors of Kings",
+        "Welcome": "Welcome to Honors of Kings!",
+        "Privilages": "Privilages",
+        "Current": "Current Noble : ",
+        "Spend": "Spend another ",
+        "no1": "Noble",
+        "no2": "Privillage",
+        "SpendContinue": " points to upgrade to Noble ",
+        "Wallet":"Wallet",
+        "Store":"Store"
+    },
+    "NavigationButtonData": {
+        "label01": "back",
+        "label02": "back - 01",
+        "label03": "back - 02"
+    }
+}
+
+{
+    "GlobalJson": {
+        "Honors": "王者荣耀",
+        "Welcome": "欢迎来到王者荣耀！",
+        "Privilages": "特权",
+        "Current": "当前贵族：",
+        "Spend": "再花费 ",
+        "no1": "贵族",
+        "no2": "特权",
+        "SpendContinue": " 点数升级到贵族 ",
+        "Wallet":"钱包",
+        "Store":"商店"
+    },
+    "NavigationButtonData": {
+        "label01": "返回",
+        "label02": "返回 - 01",
+        "label03": "返回 - 02"
+    }
+}
